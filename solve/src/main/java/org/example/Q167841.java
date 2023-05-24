@@ -1,5 +1,9 @@
 package org.example;
 import java.io.*;
+/*
+ * 반복과 조건
+ * https://level.goorm.io/exam/167841/%EB%AC%B8%EC%A0%9C-%EB%B0%98%EB%B3%B5%EA%B3%BC-%EC%A1%B0%EA%B1%B4/quiz/1
+ * */
 public class Q167841 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
